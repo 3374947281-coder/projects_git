@@ -1,0 +1,2 @@
+hello everyone.
+这是我的第一个仓库，我将在这个仓库练习git命令与相关python编程
